@@ -1,2 +1,2 @@
 # Mushrooms
-Repository untuk dataset gambar jamur dan sporocarp baik (beracun dan tidak beracun) beserta model CNN untuk mengklasifikasikannya
+Model CNN untuk mengklasifikasikan jamur (dan sporocarp) yang beracun dan tidak beracun
